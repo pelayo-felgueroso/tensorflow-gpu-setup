@@ -1,5 +1,6 @@
 # tensorflow-gpu-setup
 Step-by-step guide to installing TensorFlow with GPU support on Conda.
+
 **After days of struggling, I finally found a solution that works.**  
 I've seen countless Reddit and YouTube posts from people saying that **TensorFlow won’t run on their GPU**, and that tutorials don’t work due to **version conflicts**. Many guides are outdated or miss crucial details, leading to frustration.
 
