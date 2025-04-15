@@ -62,7 +62,7 @@ TensorFlow 2.10 does **not** support NumPy 2.x. If you installed it already, dow
 
     pip install tensorflow==2.10
 
-**Note:** Newer TensorFlow versions **(2.11+) dropped support for CUDA 11**, so **2.10 is the last version that supports it!**
+**Note:** Newer TensorFlow versions **(2.11+) dropped support for CUDA 11**, so **2.10 is the last version that supports it on native-Windows!**
 
 # 5. Install Correct CUDA and cuDNN Versions
 
